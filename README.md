@@ -29,21 +29,21 @@ mat | _matlatzinca_ | Matlatzinca
 yua | _maya yucateco_ | Yucatec Maya
 mfy | _mayo_ | Mayo
 maz | _mazahua_ | Mazahua
-- | _mazateco_ | Mazatec
-- | _mixe_ | Mixe
-- | _mixteco_ | Mixtec
-- | _ngiwa (popoloca)_ | Ngiwa
+| | _mazateco_ | Mazatec
+| | _mixe_ | Mixe
+| | _mixteco_ | Mixtec
+| | _ngiwa (popoloca)_ | Ngiwa
 nah | _náhuatl_ | Nahuatl
 nah-hus | _náhuatl (náhuatl de la Huasteca)_ | Nahuatl (Huastec)
 oto | _otomí_ | Otomí
 ppi | _paipai_ | Paipai
 pia | _pima bajo_ | Pima Bajo
-- | _popoluca_ | Popoluca
+| | _popoluca_ | Popoluca
 pua | _purépecha_ | Purépecha
 hus | _tének (huasteco)_ | Huastec
-- | _tepehua_ | Tepehua
+| | _tepehua_ | Tepehua
 tpc | _tlapaneco_ | Tlapanec
-- | _totonaco_ | Totonac
+| | _totonaco_ | Totonac
 trq | _triqui_ | Triqui
 tzo | _tsotsil_ | Tsotsil
 tzh | _tzeltal_ | Tzeltal
@@ -51,7 +51,7 @@ hch | _wixárika (huichol)_ | Huichol
 pmq | _xi´iuy (pame)_ | Pame
 yaq | _yaqui_ | Yaqui
 zap | _zapoteco_ | Zapotec
-- | _zoque_ | Zoque
+| | _zoque_ | Zoque
 
 ## License
 
