@@ -48,7 +48,7 @@ trq | _triqui_ | Triqui
 tzo | _tsotsil_ | Tsotsil
 tzh | _tzeltal_ | Tzeltal
 hch | _wixárika (huichol)_ | Huichol
-pmq | _xi´iuy (pame)_ | Pame
+pmq | _xi´iuy (pame norte)_ | Northern Pame
 yaq | _yaqui_ | Yaqui
 zap | _zapoteco_ | Zapotec
 | | _zoque_ | Zoque
