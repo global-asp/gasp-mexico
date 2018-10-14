@@ -31,7 +31,7 @@ mfy | _mayo_ | Mayo
 maz | _mazahua_ | Mazahua
 | | _mazateco_ | Mazatec
 | | _mixe_ | Mixe
-| | _mixteco_ | Mixtec
+miu | _mixteco_ | Mixtec (Mixteco de Cacaloxtepec)
 | | _ngiwa (popoloca)_ | Ngiwa
 nah | _náhuatl_ | Nahuatl
 nah-hus | _náhuatl (náhuatl de la Huasteca)_ | Nahuatl (Huastec)
