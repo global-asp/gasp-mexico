@@ -25,7 +25,7 @@ kic | _kikapú_ | Kickapoo
 klb | _kiliwa_ | Kiliwa
 lac | _lacandón_ | Lacandon
 mam | _mam_ | Mam
-mat | _matlatzinca_ | Matlatzinca
+mat | _matlatzinca_ | Bot´una (Matlatzinca)
 yua | _maya yucateco_ | Yucatec Maya
 mfy | _mayo_ | Mayo
 maz | _mazahua_ | Mazahua
