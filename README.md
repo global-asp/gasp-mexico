@@ -15,7 +15,7 @@ zoq | _ayapaneco_ | Ayapa Zoque
 pei | _chichimeca jonaz_ | Chichimeca Jonaz
 cco | _chinanteco_ | Chinantec
 coz | _chocholteco_ | Chocholtec
-ctu | _chol_ | Chol
+ctu | _chol_ | Ch'ol (Chol)
 chf | _chontal_ | Chontal
 coc | _cucapá_ | Cocopah
 huv | _huave_ | Huave
