@@ -26,6 +26,7 @@ klb | _kiliwa_ | Kiliwa
 lac | _lacandón_ | Lacandon
 mam | _mam_ | Mam
 mat | _matlatzinca_ | Bot´una (Matlatzinca)
+ocu | _pjiekak'joo_ | Pjiekakjoo (Tlahuica)
 yua | _maya yucateco_ | Yucatec Maya
 mfy | _mayo_ | Mayo
 maz | _mazahua_ | Mazahua
