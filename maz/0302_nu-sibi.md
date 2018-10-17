@@ -1,32 +1,32 @@
 # Nu sibi
 
 ##
-¡Jñanrra, nu sibi!
+¡Jñandu̷, nu sibi!
 
 ##
-Nu sibi trjütr'ü.
+Nu sibi nde̷e̷.
 
 ##
-Nu sibi janxa.
+Nu sibi jña̱xa̱.
 
 ##
-Nu sibi patr'ü.
+Nu sibi na pa'a.
 
 ##
-Nu sibi jwechi.
+Nu sibi na jyaxtjo.
 
 ##
-¡Jñanra, nu sibi!
+¡Jñandu̷, nu sibi!
 
 ##
-Mi na jo'o nu sibi.
+Nu sibi nge mi na zo'o.
 
 ##
-Nre na zezhi nu sibi.
+Ñe na zezhi.
 
 ##
 * License: [CC-BY]
 * Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano
 * Illustration: Rob Owen
-* Translation: Saúl González Peña
+* Translation: Cecilia Romero y Karina Marcelo
 * Language: maz
