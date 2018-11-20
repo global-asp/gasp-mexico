@@ -29,4 +29,4 @@ Ku̷ pjoru̷ yo añimale mama, "¡Chsss!
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
 * Translation: Cecilia Romero y Karina Marcelo
-* Language: maz
+* Language: mmc

@@ -29,4 +29,4 @@ Tlajke tijchiua?
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
 * Translation: Anuschka van ´t Hooft 
-* Language: nah-hus
+* Language: nch

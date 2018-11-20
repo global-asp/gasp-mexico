@@ -29,4 +29,4 @@ Nu sibi nge mi na zo'o.
 * Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano
 * Illustration: Rob Owen
 * Translation: Cecilia Romero y Karina Marcelo
-* Language: maz
+* Language: mmc
