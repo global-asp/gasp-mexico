@@ -1,4 +1,4 @@
-# Ba'ax ka meentik.
+# Ba'ax ka meentik
 
 ##
 Táan in k’aay.
