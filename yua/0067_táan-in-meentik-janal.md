@@ -28,5 +28,5 @@ Le kukuto’obo’ ku meetiko’ob in wook’ol ken p’aya’ako’ob.
 * Licencia: [CC-BY-NC]
 * Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Ilustración: Kathy Arbuckle
-* Traducción: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
-* Lengua: yua
+* Translation: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
+* Language: yua

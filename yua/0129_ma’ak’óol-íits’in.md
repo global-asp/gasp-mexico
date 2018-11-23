@@ -25,5 +25,5 @@ Ba’axten jach máan ya’ab in meyaj…ikil in wíits’ine’ bulk’iin chen
 * Licencia: [CC-BY-NC]
 * Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Ilustración: Mlungisi Dlamini
-* Traducción: Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez, Luis Alfredo Tuz Canté
-* Lengua: yua
+* Translation: Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez, Luis Alfredo Tuz Canté
+* Language: yua

@@ -37,5 +37,5 @@ Beytuno’, suutnajo’ob tu yotocho’ob.
 * Licencia: [CC-BY]
 * Texto: Ingrid Schechter
 * Ilustración: Ingrid Schechter
-* Traducción: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat
-* Lengua: yua
+* Translation: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat
+* Language: yua

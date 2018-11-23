@@ -28,5 +28,5 @@ Ti’ yaan wáaj táankabe’.
 * Licencia: [CC-BY-NC]
 * Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Ilustración: Bronwen Heath
-* Traducción: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
-* Lengua: yua
+* Translation: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
+* Language: yua

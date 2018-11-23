@@ -19,5 +19,5 @@ Kin wu’uyki yaabilta’anen ken u ts’áaj ten jump’éel méek’ in na’.
 * Licencia: [CC-BY-NC]
 * Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Ilustración: Kathy Arbuckle
-* Traducción: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
-* Lengua: yua
+* Translation: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
+* Language: yua
