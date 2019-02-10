@@ -1,7 +1,7 @@
 # K´axt´aanil
 
 ##
-In kaajale' jach ya’ab talamil yaan ti’ ka’achi. Kak chowak tsolikakba ka’achi ti'al ak ch'a’ik ja’ ti’ jump’éelili’ kúuchil.
+In kaajale' jach ya’ab talamil yaan ti’ ka’achi. Kak chowak tsolikakba ka’achi uti'al ak ch'a’ik ja’ ti’ jump’éelili’ kúuchil.
 
 ##
 Kak pa’atik le jaanal ku síibil to’on tumen u jeel wíiniko’obo’.
@@ -31,24 +31,22 @@ Chen ka j-k’uch u k’iinile’ xu’up le ja’ yaan te’ tu’ux ku ch’a�
 In yuume’ j-máan tuláakal le otocho’obo’ ka jo’op u ya’alik ti’ le kajnáalo’obo’ ka táakpajako’ob ti’ jump’éel múuch’tambal.
 
 ##
-Tu much’ajuba’ob yáanal jumkúul nojoch che’ ti’al u yu’ubiko’ob ba’ax kun a’albil.
+Tu much’ajuba’ob yáanal jumkúul nojoch che’ uti’al u yu’ubiko’ob ba’ax kun a’albil.
 
 ##
-In yuume wa’alaje’ ka’a tu ya’alaj:
-
-“k’a’abéet ak múuch’ meyajo’on ti’al ak xu’ulsik ak talamilo’obo”.
+In yuume wa’alaje’ ka’a tu ya’alaj: “k'a'abet ak múuch’ meyajo’on uti’al ak xu’ulsik ak talamilo’obo”.
 
 ##
 Jumae’, juntúul paal yaan ti’ waxak ja’abe’, kulukbaj tu chuun jump’éel che’, tu yawataj: “¡tene’ je’el in wáantaj ti’ míise’!”
 
 ##
-Juntúul xko’olele’ tu ya’alaj, “le xko’olelo’obo’ u béeytal u much’ikuba’ob tin wéetele’ ti’al ak pak’ik ba’al jaantbil”.
+Juntúul xko’olele’ tu ya’alaj, “le xko’olelo’obo’ u béeytal u much’ikuba’ob tin wéetele’ uti’al ak pak’ik ba’al jaantbil”.
 
 ##
 Uláak’ máake’ wa’alaje’ ka tu ya’alaj, “le xiibo’obo’ yaan ak meentiko’on le ch’e’eno’”.
 
 ##
-Tak láakalo’on tak ts’áaj jump’éel múuch’ aawat: “to’one’ k’a’abéet ak k’exik ak kuxtalil.” Tak ti’ le k’iin je’elo, tak láakalo’on kak múuch’ meyajnajo’on ti’al ak xu’ulsik ak talamilo’ob’.
+Tak láakalo’on tak ts’áaj jump’éel múuch’ aawat: “to’one’ k'a'abet ak k’exik ak kuxtalil.” Tak ti’ le k’iin je’elo, tak láakalo’on kak múuch’ meyajnajo’on uti’al ak xu’ulsik ak talamilo’ob’.
 
 ##
 * License: [CC-BY]

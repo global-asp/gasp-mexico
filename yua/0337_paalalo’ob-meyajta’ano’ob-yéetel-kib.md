@@ -10,13 +10,13 @@ Ma’atech u ba’ateilo’ob. Le paalalo’obo’ ku yáantiko’ob u yuumo’o
 Chen ba’axe a’ala’an ti’ leti’ob ma’ u náats’alo’ob tu xuul k’aak’.
 
 ##
-Leti’obe’ k’a’abéet u meentiko’ob tuláakal u meeyajo’ob tu yich áak’ab. ¡Tumen le mejen palalo’obo’ meyajta’ano’ob yéetel kib!
+Leti’obe’ k'a'abet u meentiko’ob tuláakal u meeyajo’ob tu yich áak’ab. ¡Tumen le mejen palalo’obo’ meyajta’ano’ob yéetel kib!
 
 ##
 Ba’ale’ juntúul le paalo’ jach takchaj u jóok’ol tu juul le k’iino’.
 
 ##
-Jump’éel k’iine’ we’ taakchaj u jóok’ol. U suku’uno’obe’ tu táaj t’aantajo’ob ti’al ma’ u meentik…
+Jump’éel k’iine’ we’ taakchaj u jóok’ol. U suku’uno’obe’ tu táaj t’aantajo’ob uti’al ma’ u meentik…
 
 ##
 ¡Chen ba’axe xanchaj u yu’ubik t’aan! Yéetel u juul le’ k’iino’ yíibil tu meentaj.
@@ -37,5 +37,5 @@ Ka j-jóok’ tun le k’iino’, le ch’íich’o’ j-bin u popolxiik’ yée
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
-* Translation: Maria del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek 
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
 * Language: yua

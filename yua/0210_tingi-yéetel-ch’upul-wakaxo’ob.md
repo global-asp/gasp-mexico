@@ -28,7 +28,7 @@ Tu yáanal le’obe’ ti’ ta’aka’ab Tingi tumen u chiich.
 Juntúul jolkane’ tu ya’ache’etaj Tingi, ba’ale’, leti’e’ tu makaj u chi’.
 
 ##
-j-bino’ob le jolkano’obo’, Tingi yéetel u chiiche’ jóok’o’ob.
+J-bino’ob le jolkano’obo’, Tingi yéetel u chiiche’ jóok’o’ob.
 
 ##
 Beytuno’, suutnajo’ob tu yotocho’ob.
@@ -37,5 +37,5 @@ Beytuno’, suutnajo’ob tu yotocho’ob.
 * Licencia: [CC-BY]
 * Texto: Ingrid Schechter
 * Ilustración: Ingrid Schechter
-* Translation: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat
+* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat
 * Language: yua

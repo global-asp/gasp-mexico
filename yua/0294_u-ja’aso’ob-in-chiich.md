@@ -7,16 +7,16 @@ U ch’olpaak’al in chiiche’ jach ki’ichkelem. Ichile’ yaan ya’abkach 
 Jump’éel k’iinake’ tin wilaj jump’éel xaak te’ k’iino’ tu jool u yotoch in chiich. Ka tin k’áataj ti’e’ ba’ax u biilal, ka tu núukaj tene’ “in esaj xaak”. Tu ts’éel le xaako’ yaan ya’ab u wáal u le’ ja’asi’, le je’elo’oba’ ku walk’esa’alo’ob tumen in chiich waj ba’ax k’iin. Tene’ tin ch’a’aj its’atil. “Ba’ax u bilal le le’obo’ chiich” tin k’áataj ti’. Leti’e’ chéen tu núukaj ten “In esaj le’ob.”
 
 ##
-Jach ma’alob in wilik in chiich, le ja’aso’obo’, u le’obo’ yéetel le nojoch tikinsu’uk xaako’. Chen ba’ale’ in chiicho’ tu túuxtajen iknal in na’ ti’al in meentik jump’éel k’uben. Chiich cha’ in wilik bix a máak’a’antik…” ma’ patikabaj paal, beet le ba’ax kin wa’alik techo’. Táan u seen a’alik tene’ ka’ j-binen áalkabil.
+Jach ma’alob in wilik in chiich, le ja’aso’obo’, u le’obo’ yéetel le nojoch tikinsu’uk xaako’. Chen ba’ale’ in chiicho’ tu túuxtajen iknal in na’ uti’al in meentik jump’éel k’uben. Chiich cha’ in wilik bix a máak’a’antik…” ma’ patikabaj paal, meent le ba’ax kin wa’alik techo’. Táan u seen a’alik tene’ ka’ j-binen áalkabil.
 
 ##
-Ka’ suunajene’ in chiicho’ kulukbaj te’ joolilo’, chen ba’ale’ mina’an ti’ le xaako’ mix le ja’aso’obo’. “Chiich. -Tu’ux yaan le xaako’, Tu’ux yaan le ja’aso’obo’ yéetel tu’ux tu’ux yano’ob…” chen tu núukaj tene’: “Ti’ yaano’ob tin esaj kúuchile’ Jach táaj tu lu’usaj in wóol.”
+Ka’ suunajene’ in chiicho’ kulukbaj te’ joolilo’, chen ba’ale’ mina’an ti’ le xaako’ mix le ja’aso’obo’. Chiich: -Tu’ux yaan le xaako’, Tu’ux yaan le ja’aso’obo’ yéetel tu’ux tu’ux yano’ob…- chen tu núukaj tene’: Ti’ yaano’ob tin esaj kúuchile’ ¡Jach táaj tu lu’usaj in wóol!
 
 ##
-Ka’ máan ka’ap’éel k’iine’, in chiicho’ tu túuxtajen tu kúuchil u weenel ti’al in ch’a’ik u xóolte’. Ka tin wach’aj le joonajo’ tin ch’a’ik’taj u ki’ibokil le ja’as ku tak’antalo’. Tu ichile’ ti’ yaan u nojoch xaak in chiicho’. Utsil u ta’akmaj yáanal jumxéet’ úuchben sak nook’ ka tin li’isaj ka’ tin wúuts’bentaj u ki’iki’ booko’.
+Ka’ máan ka’ap’éel k’iine’, in chiicho’ tu túuxtajen tu kúuchil u weenel uti’al in ch’a’ik u xóolte’. Ka tin wach’aj le joonajo’ tin ch’a’ik’taj u ki’ibokil le ja’as ku tak’antalo’. Tu ichile’ ti’ yaan u nojoch xaak in chiicho’. Utsil u ta’akmaj yáanal jumxéet’ úuchben sak nook’ ka tin li’isaj ka’ tin wúuts’bentaj u ki’iki’ booko’.
 
 ##
-Ja’ak’ in wóol ka tin wu’uyaj u t’aniken in chiicho’, “Ba’ax ka beetik. Jalti’ taas ten in xóolte’o’”. Ka’ tin séebkunsaj in bisik u xoolte’o’. “Ba’axten ka che’ej”, tu k’áataj ten in chiich, le k’áatchi’o’ tu meentaj in wilike’ láayli’ táan in che’eje’ tumen tin kaxtaj le esaj kúuchilo’.
+Ja’ak’ in wóol ka tin wu’uyaj u t’aniken in chiicho’, “Ba’ax ka meentik. Jalti’ taas ten in xóolte’o’”. Ka’ tin séebkunsaj in bisik u xoolte’o’. “Ba’axten ka che’ej”, tu k’áataj ten in chiich, le k’áatchi’o’ tu meentaj in wilike’ láayli’ táan in che’eje’ tumen tin kaxtaj le esaj kúuchilo’.
 
 ##
 Ka’ sáachaje´ in chiiche’ taal u xíimbalt in na’. Te súutuko’ jóok’ in wáalkab tu najil uti’al in xak’altik tuka’atéen le tak’an ja’aso’. Jach táaj ya’ab ja’as tak’am, ka’ túun tin ch’a’aj jump’éeli’ ka’ tin ta’akaj ichil in nook’. Ka’ ts’o’ok in balik le xaako’ binen paachnaj ka’ túun tin jaantaj séeb. Mix juntéen ts’o’ok in jaantik jump’eel ja’as jach taj ch’ujuk je’ex lelo’.
@@ -28,11 +28,11 @@ Ka sáaschaje’ in chiiche’ bin u jok u yich pak’áalo’ob u pak’maj te�
 Ka sáaslaje’ u k’iinil u bin máak tu kúuchil koonol. In chiiche’ j-ajij ti’ u píik’il sáastal. Leti’e’ ku molik le tak’an ja’aso’obo’ yéetel ts’íimo’ uti’al u bisik u konej. Le k’iinako’ ma’ tin séebkunsaj in bin in xíimbalti’ chen ba’ale’ ma’ pajchaj in tajkinbaj ya’ab k’iino’bi’.
 
 ##
-Ti’ le áak’abil je’elo’ tu t’áanen in na’, in yuum, yéetel in chiich. In woojel ba’axteni’. J-binen wenel yéetel jump’éel ch’a’ nu’uk, ma’ k’a’abéet in ka ookol tu ka’ateni’, mix tin chiich, mix tin yuumo’obo’ yéetel ti’ mix máak.
+Ti’ le áak’abil je’elo’ tu t’áanen in na’, in yuum, yéetel in chiich. In woojel ba’axteni’. J-binen wenel yéetel jump’éel ch’a’ nu’uk, ma’ k'a'abet in ka ookol tu ka’ateni’, mix tin chiich, mix tin yuumo’obo’ yéetel ti’ mix máak.
 
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Translation: Maria Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
 * Language: yua

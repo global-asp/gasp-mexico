@@ -34,7 +34,7 @@ Chowak xikine’ mixtáan u chanúuktik beyxan ku p’u’ujul. Ku ya’alike’
 Jach táaj su’ulakchaje’ ka j-bin u yáalkab chen mina’an u yichil.
 
 ##
-Ka ch’éen u yáalkabe’ ts’o’ok u yáak’abtaj, chowak xikine’ saatal. “Iiaaa” ka jo’op u yáakan te e’ejoch’e’enilo’ – “Iiaaa” ku  núuka’al ti’ tumen u yéets’il. Tu juunal yaan te’elo’. Mochlajij ka j-ook u weenel.
+Ka ch’éen u yáalkabe’ ts’o’ok u yáak’abtaj, chowak xikine’ saatal. “Liaaa”, ka jo’op u yáakan te e’ejoch’e’enilo’ – “Iiaaa”, ku núuka’al ti’ tumen u yéets’il. Tu juunal yaan te’elo’. Mochlajij ka j-ook u weenel.
 
 ##
 Ka aaje’ chowak xikine’ táan u pakta’al tumen juntúul nojoch máak. Tu paklan paktajuba’obe’, chowak xikine’ yaanchaj ti’ jump’éel alab óolal.
@@ -49,7 +49,7 @@ Jump’éel k’iine’ le nojoch máako’ tu k’áataj te’ chowak xikino’
 J-weeno’ob tu yook’ol le múuyalo’obo’. Le chowak xikino’ tu náaytaje’ k’oja’an u na’ yéetel jach k’a’ana’an ti’. Ka aaje’...
 
 ##
-...Le múuyalo’obo ts’oka’an u sa’atalo’ob pa’ate’il yéetel u nojoch etailo’.
+...le múuyalo’obo ts’oka’an u sa’atalo’ob pa’ate’il yéetel u nojoch etailo’.
 
 ##
 Le chowak xikino’ tu oksaj óoltaj le ba’ax k’a’abéet u beetiko’.

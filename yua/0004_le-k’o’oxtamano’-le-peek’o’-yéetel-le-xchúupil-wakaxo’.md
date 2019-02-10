@@ -1,10 +1,10 @@
-# Le k’o’oxtamano’, le peek’o’ yéetel le x-ch’uupilwaakaxo’
+# Le k’o’oxtamano’, le peek’o’ yéetel le xch'úupil wakaxo’
 
 ##
-Le k’o’oxtamano’, le peek’o’ yéetel le x-ch’uupilwakaxo’ jach ma’alob etailo’ob. Jump’éel k’iine’ j-bino’ob xíimbal ti’ jump’éel bo’olbijkisbuuts’.
+Le k’o’oxtamano’, le peek’o’ yéetel le xch'úupil wakaxo’ jach ma’alob éetailo’ob. Jump’éel k’iine’ j-bino’ob xíimbal ti’ jump’éel bo’olbijkisbuuts’.
 
 ##
-Ka’a ts’o’ok le xíimbalilo’ le Ajbisajkisbuuts’o’ tu ya’alajti’ob ka u bo’olto’ob úuchik u bisa’alo’obo’. Le x-ch’uupilwakaxo’ tu bo’otaj.
+Ka’a ts’o’ok le xíimbalilo’ le ajbisajkisbuuts’o’ tu ya’alajti’ob ka u bo’olto’ob úuchik u bisa’alo’obo’. Le xch'úupil wakaxo’ tu bo’otaj.
 
 ##
 Le peek’o’ k’as máan u bo’otik tumen mina’an ti’ u p’iisil u tojol ti’.
@@ -16,7 +16,7 @@ Le ajbisajkisbuuts’o’ binuka’aj ka’ach u sut u yaalab u taak’in le pee
 Le ajbisajkisbuuts’o’ jach máan p’uja’an, j-binij yéetel ma’ tu sutaj u yaalab u taak’in le peek’o’.
 
 ##
-Yo’osal le ba’ax úucho’, tak bejla’e’ le peek’o’ ku tsáayal tu paach le kisbuuts’o’ ti’al u yilik ichil yo’osal u yilik wa ti’ yaan le ajbisajkisbuuts’ yo’osal u su’utul u taak’ino’.
+Yo’osal le ba’ax úucho’, tak bejla’ake’ le peek’o’ ku tsáayal tu paach le kisbuuts’o’ uti’al u yilik ichil yo’osal u yilik wa ti’ yaan le ajbisajkisbuuts’ yo’osal u su’utul u taak’ino’.
 
 ##
 Le k’o’oxtamano’ ku yáalkab chen u yu’ub u juum jump’éel kisbuuts’. Letie’ saajak ka k’a’alak tumen ma’ tu bo’otaj úuchik u bisa’alo’.

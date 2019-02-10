@@ -13,10 +13,10 @@ Le k’aaka’s Anansio’ tu tukultaje’: “Yaan in ta’aksik le k’at ti�
 Táan u na’akale’, u chichan yaale’ táan u yilike’, ka tu ya’alaj ti’ beya’: “ma’ wáaj asab ch’a’abil ka na’akakech yéetel le k’at ta paacho'”. Anansie’ tu k’axaj le k’at tu paacho’, ka tu yilaje’ jach asab ma’ talami’.
 
 ##
-Ti’ jump’éel súutuke’ páajchaj u k’uchul tu jo’ol le che’o’, ba’ale’ tu tukultaj: “k’a’abéet ti’ teen ka yanak tuláakal le yiits’atilo’ ¡Ba’ale’ in waalo’ asab p’ila’an u yich ket teen!”. Anansie’ jach p’u’uje’ ka tu pulaj le k’at tak tu ka’analil le che’o’.
+Ti’ jump’éel súutuke’ páajchaj u k’uchul tu jo’ol le che’o’, ba’ale’ tu tukultaj: “k'a'abet ti’ teen ka yanak tuláakal le yiits’atilo’ ¡Ba’ale’ in waalo’ asab p’ila’an u yich ket teen!” Anansie’ jach p’u’uje’ ka tu pulaj le k’at tak tu ka’analil le che’o’.
 
 ##
-Xiixpaj le k’at te’ lu’umo’. Le yiits’atilo’ j-p’áat jáalk’abil ti’al ka ch’a’abak tumen tu láakal máak. Bey tun le wíiniko’obo’ tu kanajo’ob paak’al, chuuy, babaj máaskab yéetel ya’abkach u jeel ba’alo’ob.
+Xiixpaj le k’at te’ lu’umo’. Le yiits’atilo’ j-p’áat jáalk’abil uti’al ka ch’a’abak tumen tuláakal máak. Bey tun le wíiniko’obo’ tu kanajo’ob paak’al, chuuy, babaj máaskab yéetel ya’abkach u jeel ba’alo’ob.
 
 ##
 * License: [CC-BY]

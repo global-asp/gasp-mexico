@@ -31,7 +31,7 @@ Jump’éel áak’abe ka ts’o’ok u meyaj u na’ yéetel u tatae’ lu’ub
 “In taata, in na’ ba’ax táalami ka’ máansike’ex” Sakimae’ tu yojeltaje’ j-sa’atij u yaal le ayik’al máako’. Le máako’ jach táaj luba’an u yóol yéetel jach tu jun u yu’ubikuba.
 
 ##
-Ka tu ya’alaj Sakima ti’ u taata yéetel ti’ u na’e’. “Tene’ je’el u páajtal in k’aay ti’ leti’e’. ku taale’ je’el u ki’imakúunsa’aj u yóol tumen in k’aayo’”. Chen ba’axe leti’obe’ tu tséel ichtajo’ob u tuukul le’ Sakimao’: “Leti’e’ jach ayik’al. Teche’ chen juntúul óotsil ch’óop paalech. Je’el wáaj a tukultike’ u yáanta’al tumen a k’aayo’”.
+Ka tu ya’alaj Sakima ti’ u taata yéetel ti’ u na’e’. “Tene’ je’el u páajtal in k’aay ti’ leti’e’, ku taale’ je’el u ki’imakúunsa’aj u yóol tumen in k’aayo’”. Chen ba’axe leti’obe’ tu tséel ichtajo’ob u tuukul le’ Sakimao’: “Leti’e’ jach ayik’al. Teche’ chen juntúul óotsil ch’óop paalech. Je’el wáaj a tukultike’ u yáanta’al tumen a k’aayo’”.
 
 ##
 Chen ba’axe’ Sakimae’ ma’ j-lúub u yóoli’. Ka áanta’abij tumen u yíits’in. “U k’aayo’ob le Sakimao’ ku yáantiken chen wi’ichajaken, je’el xan u li’isik u yóol le ayik’al máako’”.
@@ -43,7 +43,7 @@ Tuláak’ k’iino’ Sakimae’ tu k’áata’ ti’ u yíits’ino’ ka bis
 Wa’alajij yáanal jump’éel nojoch ch’enebjoole’ ka káaj u k’ayik u nup’ k’aay. Jujunp’íitil uchik u biin u tip’ik u pool le ayik’al máako’.
 
 ##
-Le ajmeyajo’obo’ tu ch’enaj u meeyajo’ob. Tu yubo’ob u ki’ichkelem u k’aay le Sakimao’. chen ba’axe juntúul ichile’ tu ya’alaje’: “Mix máak ts’a’ayak u li’is u yóol le yuumbilo’. Je’el wáaj u tsa’ayal li’isbil u yóol tumen le’ ch’óop pala’”.
+Le ajmeyajo’obo’ tu ch’enaj u meeyajo’ob. Tu yubo’ob u ki’ichkelem u k’aay le Sakimao’. Chen ba’axe juntúul ichile’ tu ya’alaje’: “Mix máak ts’a’ayak u li’is u yóol le yuumbilo’. Je’el wáaj u tsa’ayal li’isbil u yóol tumen le’ ch’óop pala’”.
 
 ##
 Ka ts’o’ok u k’aay Sakimae’ ka tu sutaj u paachil ti’al u bin. Chen ba’axe le ayik’al máako’ j-jóok’ u yáalkabe’ ka tu ya’alaj beya’: “Meent uts a ka’a k’aay”.

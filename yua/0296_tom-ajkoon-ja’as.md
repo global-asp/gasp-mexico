@@ -19,7 +19,7 @@ Chen ba’ale’ mixmáak manik u koon ja’as Tom. Le máako’obo’ ku maniko
 Chen ba’ale’ Tome’ ma’atan u cha’ik u lúubul u yóol. Láayli’ táan u yawate’, “¡mane’ex in koonol ja’as!, ¡maane’ex in koonol ch’ujuk tak’an ja’as!”
 
 ##
-Juntul ko’olele’ tu ch’a’aj jun nikib ja’as ti’ le xaako’. Ka jo’op u jach ilik bix le ja’aso’obo’.
+Juntúul ko’olele’ tu ch’a’aj jun nikib ja’as ti’ le xaako’. Ka jo’op u jach ilik bix le ja’aso’obo’.
 
 ##
 Le ko’olelo’ tu maanaj le ja’aso’obo’.

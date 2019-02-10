@@ -13,11 +13,7 @@ Chen ba’ale’ le ipopotamóo’ ma’ tu yilaj waj ti’ yaan xan le t’u’
 Le ipopotamóo’ tu k’áataj ti’ le t’u’ulo’ ka sa’asak u si’ipil: sa’as in si’ipili’ t’u’ul, ma’ tin wilajech uch in ya’ache’etik a wooki’ chen ba’ale’ le t’u’ulo’ tu tuuku’ultaje’ mix jaaj le ba’ax ku ya’alaj ti’o’, leti’e’ ka tu ya’alaj te’ ipopotamóo’ chen táakili’ a ya’ache’etik in chan ooko’, chen ba’ale’ jump’éel k’iine’ yaan a bo’otik le ba’ax ta metajteno’.
 
 ##
-Ka ts’o’oke’, le t’u’ulo’ taj yaajchaj tu yóol le ba’ax meenta’ab ti’o’ ka j-bin u kaxt le yuum k’áak’o’
-
-ka tu ya’alaj ti’ beya: “xéen a tóok le ipopotamóo, le ken jóok’ok’ te’ ja’ yo’osal u bin janalo’,
-
-ka tu nuukaj le yuum k’áak’o’ “je’ele’ éetail t’u’ul, yaan in meentik jach bix a wa’alikteno’”.
+Ka ts’o’oke’, le t’u’ulo’ taj yaajchaj tu yóol le ba’ax meenta’ab ti’o’ ka j-bin u kaxt le yuum k’áak’o’ ka tu ya’alaj ti’ beya: “xéen a tóok le ipopotamóo, le ken jóok’ok’ te’ ja’ yo’osal u bin janalo’, ka tu nuukaj le yuum k’áak’o’ “je’ele’ éetail t’u’ul, yaan in meentik jach bix a wa’alikteno’”.
 
 ##
 Ma’ seen sáamlaje’ ka jóok’ janal su’uk le ipopotamóo náach ti’ le ja’o’, “¡zúum!” ka tóoch’banaj le k’áak’o’, ka ts’o’oktune’ le u yóol le k’aak’o tu laj tóokaj u tso’otsel le ipopotamóo.

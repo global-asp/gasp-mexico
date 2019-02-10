@@ -1,7 +1,7 @@
-# ¡Jach uts’ tin wich in xook!
+# ¡Jach uts tin wich in xook!
 
 ##
-Uts’ tin wich in xookik áanalte’.
+Uts tin wich in xokik áanalte’.
 
 ##
 Máax ti’ je’el u béeytal in xokike’.

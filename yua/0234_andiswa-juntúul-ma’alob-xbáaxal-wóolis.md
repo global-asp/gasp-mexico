@@ -16,17 +16,13 @@ Ti’ uláak’ k’iino’, u najlxook Andiswae’ yaan ti’ jump’éel ketla
 Andiswae’ áalkabnajij iknal le ajbe’elbesajo’ ka tu jach k’áataj ti ka oksa’ak báaxal. Le ajbe’elbesajo’ ma’ u yojel ba’ax ken u meenti’. Tu ts’ooke’ tu cha’aj u báaxal Andiswa.
 
 ##
-Le báaxalo’ jach talam u bin. Tak ti’ u chúumuk báaxalile’,
-
-mixjuntúul múuch’il u yoksej gool.
+Le báaxalo’ jach talam u bin. Tak ti’ u chúumuk báaxalile’, mixjuntúul múuch’il u yoksej gool.
 
 ##
 Ichil u ka’ajaats báaxalile’ juntúul ichil le xi’ipalo’obo’ ti u máansaj le wóolis ti’ Andiswa, leti’e’ tu kóoche’ataj yéetel tuláakal u múuk’e’ ka tu yoksaj jump’éel gool.
 
 ##
-Le máaxo’ob cha’antiko’ awatnajo’ob yéetel ki’imak óolal.
-
-Tak ti’ le k’iin je’elo’, le ch’úupalo’obo’ ku cha’abal u báaxtiko’ob kóoche’ wóolis te’ najilxook je’elo’.
+Le máaxo’ob cha’antiko’ awatnajo’ob yéetel ki’imak óolal. Tak ti’ le k’iin je’elo’, le ch’úupalo’obo’ ku cha’abal u báaxtiko’ob kóoche’ wóolis te’ najilxook je’elo’.
 
 ##
 * License: [CC-BY-NC]

@@ -1,4 +1,4 @@
-# Máansaj k’iinilo’ob ikanl in chiich
+# Máansaj k’iinilo’ob iknal in chiich
 
 ##
 Odongo yéetel Apiyoe’ kajano’ob ti’ jump’éel nojkaaj yéetel u yuumo’ob. Ku pa’tiko’ob yéetel ki’imak óolalil u jóok’olo’ob tu xook. Ma’ chéen tu yo’osal ts’o’ok le xooko’, tu yo’osal u bino’ob xíimbal iknal u chiich. Leti’e’ te’ ku kajtal ti’ jump’éel chan kaaj tu’ux ku kajtal chuk kayo’ob naats’ ti’ le chichan k’ak’náabo’.
@@ -28,10 +28,10 @@ Ka ts’o’oke’ Odongo yéetel Apiyoe’ j-bino’ob báaxal. Tu t’u’ulpa
 Tu lechkunsajuba’ob ti’ che’ob yéetel síit’najo’ob ichil le ak’alo’.
 
 ##
-Ka e’ejoch’enchaje’ suunajo’ob tu yotoch u chiich uti’al u janalo’ob, ¡Ikil u janalo’obe’ káaj u yokol u weenelo’ob!
+Ka e’ejoch’enchaje’ suunajo’ob tu yotoch u chiich uti’al u janalo’ob. ¡Ikil u janalo’obe’ káaj u yokol u weenelo’ob!
 
 ##
-Ka sáaschaje’ u yume’ suunaj te’ nojkaajo’, le paalalo’obo’ j-p’áato’ob ikanl Nyar-Kanyada.
+Ka sáaschaje’ u yume’ suunaj te’ nojkaajo’, le paalalo’obo’ j-p’áato’ob iknal Nyar-Kanyada.
 
 ##
 Odongo yéetel Apiyoe’ tu yáantajo’ob u chiich ti’ u meyajil ichil le otocho’. J-bino’ob ch’a’ ja’ yéetel si’. Tu molajo’ob u je’ kaaxo’obo’ beyxan tu molajo’ob u yich pak’áalo’ob.
@@ -49,25 +49,21 @@ Ti’ u jeel k’iine’ le palalo’obo’ j-bino’ob tu kúuchil koonol yéet
 Ti’ u áak’abile’ ku múul uk’ik’ob chakbil pak’áal. Ku yáantiko’ob u chiich u xok buka’aj taak’in tu náajaltaj.
 
 ##
-Baxe’ le je’esajk’iinilo’ jach séeb uchak u máan, le paalalo’obo’ ka’a suunajo’ob tu yotoch te’ nojkaajo’.
-
-Nyar-Kanyada tu sijaj jump’éel p’óok ti’ Odongoo yéetel jump’éel mak’ambilnook’ ti’ Apiyo. Beyxan tu ts’áaj ki’iwaj u biso’ob tu yotoch.
+Baxe’ le je’esajk’iinilo’ jach séeb uchak u máan, le paalalo’obo’ ka’a suunajo’ob tu yotoch te’ nojkaajo’. Nyar-Kanyada tu sijaj jump’éel p’óok ti’ Odongoo yéetel jump’éel mak’ambilnook’ ti’ Apiyo. Beyxan tu ts’áaj ki’iwaj u biso’ob tu yotoch.
 
 ##
 Ka j-k’uch u yuum ch’a’iko’obe’ ma’ taak u bino’obi’. Tu yayantajo’ob ti Nyar-Kanyada ka xi’ik tu yéetelo’ob, ba’ale’ letie’e chen che’ejnaji’, ka tu ya’alaj beya: “Jach nojoch máaken ti’ le nojkaajo’. Way ken in pa’ate’ex ken ka’a suunake’xe’”.
 
 ##
-Odongo yéetel Apiyoe´ tu jich’méek’tajo’ob u chiich ka tu ya’alajo’ob ti’e’: “Tu jeel k’iin”.
+Odongo yéetel Apiyoe’ tu jich’méek’tajo’ob u chiich ka tu ya’alajo’ob ti’e’: “Tu jeel k’iin”.
 
 ##
-Ka suunajo’ob Odongo yéetel Apiyo tu najil u xooko’obe’ tu tsikbaltaj ti’ u etailo’ob bix u kuxtalil ti’ jump’éel chichan kaj.
-
-Yaan paalale’ tu ya’alajo’obe’ le kuxtal yaan te nojkaajo’ asab ma’alo’ob yaan xan tu ya’alajo’obe’ le kuxtalil ichil le chichan kaajo’ asab jats’uts. ¡Ba’ale’ u jaajile’ tuláakalo’obe’ tu ya’alajo’obe’ Apiyo yéetel Odongoe’ yaan ti’ob juntúul chiich jach maksil!
+Ka suunajo’ob Odongo yéetel Apiyo tu najil u xooko’obe’ tu tsikbaltaj ti’ u etailo’ob bix u kuxtalil ti’ jump’éel chichan kaj. Yaan paalale’ tu ya’alajo’obe’ le kuxtal yaan te nojkaajo’ asab ma’alo’ob yaan xan tu ya’alajo’obe’ le kuxtalil ichil le chichan kaajo’ asab jats’uts. ¡Ba’ale’ u jaajile’ tuláakalo’obe’ tu ya’alajo’obe’ Apiyo yéetel Odongoe’ yaan ti’ob juntúul chiich jach maksil!
 
 ##
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
-* Translation: Maria Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
 
 * Language: yua

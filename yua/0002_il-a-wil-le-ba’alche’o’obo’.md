@@ -4,25 +4,25 @@
 Il a wil le ba’alche’o’obo’.
 
 ##
-Le xch’upil wakaxo’ ku ya’alik: “muu”.
+Le xch’upil wakaxo’ ku ya’alik: Muu.
 
 ##
-Le k’o’ox tamano’ ku ya’alik: “bee, bee”.
+Le k’o’ox tamano’ ku ya’alik: Bee, bee.
 
 ##
-Le tsíimino’ ku ya’alik: “Hin”.
+Le tsíimino’ ku ya’alik: Hin.
 
 ##
-Le k’éek’eno’ ku ya’alik: “Oink-oink”.
+Le k’éek’eno’ ku ya’alik: Oink-oink.
 
 ##
-Le kaaxo’ ku ya’alik: “Cló-cló”.
+Le kaaxo’ ku ya’alik: Cló-cló.
 
 ##
-Le peek’o’ ku ya’alik: “Guau.”
+Le peek’o’ ku ya’alik: Guau.
 
 ##
-Le ajkanan ba’alche’o’obo’ ku ya’alik, “¡Chss!”
+Le ajkanan ba’alche’o’obo’ ku ya’alik, ¡Chss!
 
 ##
 * License: [CC-BY-NC]

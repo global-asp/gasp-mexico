@@ -28,5 +28,5 @@ Kin wilik júump’éel cheel.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
-* Translation: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat
+* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat
 * Language: yua

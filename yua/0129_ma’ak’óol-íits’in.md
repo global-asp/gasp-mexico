@@ -19,7 +19,7 @@ Kin míis.
 Kin p’o’ik nu’ukul.
 
 ##
-Ba’axten jach máan ya’ab in meyaj…ikil in wíits’ine’ bulk’iin chen báaxal ku méentik.
+Ba’axten jach máan ya’ab in meyaj… ikil in wíits’ine’ bulk’iin chen báaxal ku méentik.
 
 ##
 * Licencia: [CC-BY-NC]

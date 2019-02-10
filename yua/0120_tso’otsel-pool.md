@@ -22,11 +22,11 @@ Zanele ts’o’ok u xáache’etik u tso’otsel u pool.
 Thaboe’ ts’o’ok u k’osik u tso’otsel u pool.
 
 ##
-Thembae’ ts’o’ok u k’oliskúuntikubáaj.
+Thembae’ ts’o’ok u k’oliskúuntikubaj.
 
 ##
 * Licencia: [CC-BY-NC]
 * Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Ilustración: Bronwen Heath
-* Translation: Llobet Iván Cetzal Martínez, Lizet Magaly Chable Ake,  Luis Alfredo Tuz Canté.
+* Translation: Llobet Iván Cetzal Martínez, Lizet Magaly Chable Ake, Luis Alfredo Tuz Canté.
 * Language: yua
