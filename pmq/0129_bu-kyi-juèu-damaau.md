@@ -24,6 +24,6 @@ Tatã̀ꞌ ruꞌ xiljiã.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Constantino Gómez González
 * Language: pmq

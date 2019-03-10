@@ -18,6 +18,6 @@ In k'án u ats'ál tam u mím tin muts'uk'nál.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Gudelia Cruz Aguilar
 * Language: hus

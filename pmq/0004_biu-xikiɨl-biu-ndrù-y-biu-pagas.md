@@ -28,6 +28,6 @@ Y biuꞌ pagas nip tsuɛ̃ng kuandu nda kamiun banꞌduà laꞌnũp dajueuꞌ 
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Constantino Gómez González
 * Language: pmq

@@ -27,6 +27,6 @@ Themba dakuàs ruꞌ skanꞌjɨ̃p.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Constantino Gómez González
 * Language: pmq

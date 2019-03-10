@@ -27,6 +27,6 @@ Ruꞌ stakat laꞌuĩ̀k ke taguay kuandu lꞌjiɨ̀ꞌt.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Constantino Gómez González
 * Language: pmq

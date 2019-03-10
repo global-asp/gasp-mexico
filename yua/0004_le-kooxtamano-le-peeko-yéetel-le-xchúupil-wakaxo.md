@@ -27,6 +27,6 @@ Le xch’uupilwakaxo’ ma’atech u p’u’ujul chen u yu’ub u náats’al j
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh
 * Language: yua

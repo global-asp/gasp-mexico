@@ -27,6 +27,6 @@ Po k'al jajá', yab jayk'i' ne'ets ku ejtow kin juman.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Gudelia Cruz Aguilar
 * Language: hus

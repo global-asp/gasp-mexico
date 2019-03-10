@@ -27,6 +27,6 @@ A Thelma in pit'it'yamal in ók'.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Gudelia Cruz Aguilar
 * Language: hus
