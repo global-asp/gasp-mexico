@@ -63,5 +63,5 @@ Juã̀y mã̀ nꞌjãsp kuɛ̀ lamã̀ pa biuꞌ este. Pur chiñi, lu mas la
 * License: [CC-BY]
 * Text: Lesley Koyi, Ursula Nafula
 * Illustration: Brian Wambi
-* Translation: Constantino
+* Translation: Constantino Gómez González
 * Language: pmq

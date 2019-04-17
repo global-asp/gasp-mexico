@@ -67,5 +67,5 @@ Buꞌ ꞌlɛ tjèjeunꞌ meju mjàu lajiung de ke danũ̀ buꞌ nꞌdɨy ya k
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Peris Wachuka
-* Translation: Constantino
+* Translation: Constantino Gómez González
 * Language: pmq

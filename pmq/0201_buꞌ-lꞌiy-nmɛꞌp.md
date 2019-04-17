@@ -84,5 +84,5 @@ Peru, karadat ꞌliɛdat ya kuã̀jãdat ripiɨ pɨk uye mejuye.
 * License: [CC-BY]
 * Text: Lindiwe Matshikiza
 * Illustration: Meghan Judge
-* Translation: Constantino
+* Translation: Constantino Gómez González
 * Language: pmq
