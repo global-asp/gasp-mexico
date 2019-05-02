@@ -29,5 +29,4 @@ Uts u taalo’ob ti’ ten.
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh
-
 * Language: yua

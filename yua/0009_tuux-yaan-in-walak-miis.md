@@ -25,8 +25,8 @@ Ti’ yaan wáaj táankabe’.
 ¡Je’ela’!
 
 ##
-* Licencia: [CC-BY-NC]
-* Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Ilustración: Bronwen Heath
+* License: [CC-BY-NC]
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
+* Illustration: Bronwen Heath
 * Translation: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
 * Language: yua

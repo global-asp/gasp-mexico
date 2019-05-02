@@ -61,8 +61,8 @@ Chowak xikine’ tu yilaj u na’ tuka’aten. Xáanchaj u paktikuba’ob. Ka ts
 Máan k’iino’obe’ ka tu kanajo’ob múul kuxtal chowak xikin yéetel u na’. Jujump’íitil uchak u náats’al uláak’ máako’ob kajtal tu yiknalo’ob.
 
 ##
-* Licencia: [CC-BY]
-* Texto: Lindiwe Matshikiza
-* Ilustración: Meghan Judge
+* License: [CC-BY]
+* Text: Lindiwe Matshikiza
+* Illustration: Meghan Judge
 * Translation: Maria Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
 * Language: yua

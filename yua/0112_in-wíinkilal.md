@@ -25,8 +25,8 @@ Yéetele’ je’el u páajtal in púuts’ule’.
 Ba’ale’ yéetele’ mix bik’in kin tsa’ayal xik’náal.
 
 ##
-* Licencia: [CC-BY-NC]
-* Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Ilustración: Mlungisi Dlamini
+* License: [CC-BY-NC]
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
+* Illustration: Mlungisi Dlamini
 * Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla
 * Language: yua

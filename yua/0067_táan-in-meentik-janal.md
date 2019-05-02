@@ -25,8 +25,8 @@ In na’e’ ku p’ayik le kukuto’.
 Le kukuto’obo’ ku meetiko’ob in wook’ol ken p’aya’ako’ob.
 
 ##
-* Licencia: [CC-BY-NC]
-* Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Ilustración: Kathy Arbuckle
+* License: [CC-BY-NC]
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
+* Illustration: Kathy Arbuckle
 * Translation: Yareli Yeh Cab, Noé Noh Cimá, Jassem Cahuich Ek
 * Language: yua

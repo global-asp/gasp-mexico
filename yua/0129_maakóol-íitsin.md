@@ -22,8 +22,8 @@ Kin p’o’ik nu’ukul.
 Ba’axten jach máan ya’ab in meyaj… ikil in wíits’ine’ bulk’iin chen báaxal ku méentik.
 
 ##
-* Licencia: [CC-BY-NC]
-* Texto: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Ilustración: Mlungisi Dlamini
+* License: [CC-BY-NC]
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
+* Illustration: Mlungisi Dlamini
 * Translation: Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez, Luis Alfredo Tuz Canté
 * Language: yua

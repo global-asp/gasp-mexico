@@ -34,8 +34,8 @@ J-bino’ob le jolkano’obo’, Tingi yéetel u chiiche’ jóok’o’ob.
 Beytuno’, suutnajo’ob tu yotocho’ob.
 
 ##
-* Licencia: [CC-BY]
-* Texto: Ingrid Schechter
-* Ilustración: Ingrid Schechter
+* License: [CC-BY]
+* Text: Ingrid Schechter
+* Illustration: Ingrid Schechter
 * Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat
 * Language: yua
