@@ -56,5 +56,5 @@ Takã̀jãn ꞌmɛ̀jɛnan nìskꞌan taꞌuànan y kiau lameju mjàu nisk 
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Translation: Constantino
+* Translation: Constantino Gómez González
 * Language: pmq
