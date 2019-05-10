@@ -4,9 +4,7 @@
 Namĩ ɛn nda ganuꞌ nda cocodrilo ke mjàu ñkjiũy.
 
 ##
-Laꞌuàꞌt ntsjɨjɨñ mjàu spajìp y jueuꞌ.
-
-Ast ke...
+Laꞌuàꞌt ntsjɨjɨñ mjàu spajìp y jueuꞌ. Ast ke...
 
 ##
 ¡¡¡ZAs!!! ¡Biuꞌ cocodrilo ataca!

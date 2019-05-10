@@ -4,7 +4,7 @@
 ¡Ñũꞌũt, ñkiuɛ̀!
 
 ##
-Biuꞌ ñkiuɛ̀ juɨñ
+Biuꞌ ñkiuɛ̀ juɨñ.
 
 ##
 Biuꞌ ñkiuɛ̀ laꞌtàꞌ mjiɨng.
@@ -16,10 +16,10 @@ Biuꞌ ñkiuɛ̀ laꞌpalꞌ.
 Biuꞌ ñkiuɛ̀ laꞌlɨ̀ꞌch.
 
 ##
-¡Ñũꞌũt, ñkiuɛ̀
+¡Ñũꞌũt, ñkiuɛ̀!
 
 ##
-Biuꞌ ñkiuɛ̀ ɛs mjàu spàjauꞌts
+Biuꞌ ñkiuɛ̀ ɛs mjàu spàjauꞌts.
 
 ##
 Y ɛs gaju.

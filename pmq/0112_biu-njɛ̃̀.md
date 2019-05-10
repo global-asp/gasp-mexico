@@ -4,13 +4,13 @@
 Kun u tajuꞌu lanɛ̃jɛ̃Ꞌp.
 
 ##
-Kun u taju'u la'ts'ìng.
+Kun u tajuꞌu laꞌtsꞌìng.
 
 ##
 Kun u tajuꞌu lanajayꞌ.
 
 ##
-kun u tajuꞋu laꞋtsajaung.
+Kun u tajuꞋu laꞋtsajaung.
 
 ##
 Kun u tajuꞋu laꞋtsꞋìng.
@@ -19,7 +19,7 @@ Kun u tajuꞋu laꞋtsꞋìng.
 Kun u tajuꞌu lanajañky.
 
 ##
-Kun u tajuꞌu lanɛ̃jɛ̃Ꞌp.
+Kun u tajuꞌu lanɛjɛꞋp.
 
 ##
 Peru kun u, nixiɛ̀ꞌɛp nꞌjuꞌu taꞌtsajaung

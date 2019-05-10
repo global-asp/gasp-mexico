@@ -10,7 +10,7 @@ Anna laꞌmẽ ruꞌ skanꞌjɨ̃p mpaꞌau.
 Cathy ɛs buꞌ ke laꞌmẽ ruꞌ skanꞌjɨ̃p mas mpaꞌau.
 
 ##
-Zama daꞌuĩ̀ trenza en ruꞌ skanꞌjɨ̃p.
+Zama dapɛꞌɛ ruꞌ skanꞌjɨ̃p.
 
 ##
 Baba laꞌmẽ kiɨ̀lꞌ.

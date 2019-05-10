@@ -16,7 +16,7 @@ Biuꞌ npàjalꞌ tẽ̀ꞌ, "Hin."
 Biuꞌ gapje tẽ̀ꞌ, "Oink-oink."
 
 ##
-Biuꞌ sũ̀ talung tẽ̀ꞌ, "Cló-clo."
+Biuꞌ sũ̀ talung tẽ̀ꞌ, "Kotɛ̀k-Kotɛ̀k."
 
 ##
 Biuꞌ ndrù tẽ̀ꞌ, "Guau."

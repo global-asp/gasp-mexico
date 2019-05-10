@@ -13,7 +13,7 @@
 ¿Meju kaꞌing de biuꞌ npjuju ntɨꞌ?
 
 ##
-¿Meju kankã̀u de biuꞌ bote xchꞌày?
+¿Meju kankã̀u de biuꞌ bote pɨk kjuã̀lꞌ xchꞌày?
 
 ##
 ¿Meju kañjiuyp de biuꞌ sankãlꞌ skamjɨ̃ꞌɨ̃t jiaung?

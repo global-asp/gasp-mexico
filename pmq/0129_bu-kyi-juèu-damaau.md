@@ -1,7 +1,7 @@
 # Buꞌ kyi juèu damaꞌau.
 
 ##
-Lanu y lantsaꞌau biuꞌ ñkiuɛ̀.
+Lanu y lantsaꞌau biuꞌ ñꞌkiuɛ̀.
 
 ##
 Taꞌmɨ̀ñꞌ kꞌiy kantɛ.
@@ -16,7 +16,7 @@ Taꞌnũ̀nꞌch biuꞌ kjiɨ̀ꞌ.
 Laꞌent biuꞌ kampuꞌ.
 
 ##
-Tatã̀ꞌ ruꞌ xiljiã.
+Latãꞌ ruꞌ xiljiã.
 
 ##
 ¿Purke mjàu nis latàjau ntjajau... ...nkjant buꞌ juèu lamjing?

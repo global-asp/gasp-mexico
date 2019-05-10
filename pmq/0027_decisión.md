@@ -1,10 +1,10 @@
 # Decisión
 
 ##
-Biuꞌ kamꞌus laꞌmẽ bale salꞌẽꞌẽu. Naꞌuĩ̀nanꞌ nda fila mpaꞌau pa nkuɨ̀jɨꞌnan kantɛ de nda grifo.
+Biuꞌ kamꞌus laꞌmẽ bale salꞌẽꞌẽu. Naꞌuĩ̀nanꞌ nda fila mpaꞌau pa nkuɨ̀jɨꞌnan kantɛ de nda kapius.
 
 ##
-Tapɛnanꞌ mjiɨ̃ng ke dabù karadat ꞌliɛdat.
+Tapɛnanꞌ mjiɨ̃ng ke dabùdat karadat ꞌliɛdat.
 
 ##
 Natsɛ̀ꞌɛunanꞌ biuꞌ stsꞌɛuꞌ de biuꞌ kaꞌùsanꞌ gua katsjaꞌau yake lamĩ bale gapɛ̃dat.
@@ -25,22 +25,22 @@ Kuandu juɨ̀jɨñꞌ biuꞌ gaꞌmau, nkꞌɨx de xchꞌàyꞌ laꞌjiɛt de k
 Ruꞌ ꞌliɛdat daljaꞌaudat pur vidrios basut y dalꞌàilꞌat sin ke danꞌjũ̀.
 
 ##
-Ntũ̀ns, nda ganuꞌ, biuꞌ grifo daꞌu y ruꞌ batsìganꞌ baꞌu.
+Ntũ̀ns, nda ganuꞌ, ruꞌ kapius daꞌu y ruꞌ batsìganꞌ baꞌu.
 
 ##
-Buꞌ tàk rua de katꞌùs en katꞌùs uàjaunꞌ a ruꞌdat ꞌliɛdat que lamãdat en nda tamã̀nꞌch de biuꞌ aldea.
+Buꞌ tàk rua de katꞌùs en katꞌùs uàjaunꞌbat a ruꞌdat ꞌliɛdat que lamãdat en nda tamã̀nꞌch de biuꞌ kamꞌus.
 
 ##
-Ruꞌdat ꞌliɛdat tamꞌjiã̀nꞌch kampiuꞌp de nda nkuãng y ꞌuꞌ.
+Ruꞌdat ꞌliɛdat tamꞌjiã̀nꞌch kampiuꞌp de nda nkuãng pa ñꞌkꞌiùꞌ.
 
 ##
-Buꞌ tàtk gunjãs y damang: "Takuɨ̃ꞌɨ̃nanꞌ gatajaunanꞌ ntjajau ꞌmɛ̀jɛnanꞌ pa nkjuàꞌadanꞌ ruꞌ salꞌẽꞌẽu".
+Buꞌ tàtk gunjãs y damang: "Lakiɨ̃ꞌ gatajaunanꞌ ljiajau ꞌmɛ̀jɛnanꞌ pa nkjuàꞌadanꞌ ruꞌ salꞌẽꞌẽu".
 
 ##
-Juma, de 8 rañꞌkiɨ̃jɨ̃, ke meju en nda nkuãng de nda nꞌpiù nkuãng gampaꞌa: "Tajuꞌu nꞌguày kun limpieza".
+Juma, de tiñjiũꞌũn rañꞌkiɨ̃jɨ̃, ke meju en nda nkuãng de nda nꞌpiù nkuãng gampaꞌa: "Tajuꞌu nꞌguày nꞌmã̀nꞌch xchꞌày".
 
 ##
-Nda ntjuy damang: "Ruꞌ ñkjuyat ꞌtjuꞌu gunꞌẽdat kun kiau pa ntuꞌunanꞌ nɛp banjàung.
+Nda ntjuy damang: "Ruꞌ ñkjiuyat ꞌtjuꞌu gunꞌẽdat kun kiau pa ntũꞌũnanꞌ nɛp banjã̀ung.
 
 ##
 Kuɛ̀ nda ꞌlɛ nañjã̀s y damang: "Ruꞌ ꞌliɛdat gakꞌiuɛꞌɛ nda kapius".

@@ -4,19 +4,19 @@
 Nda elefante mã̀ ganjauꞌ kantɛ.
 
 ##
-Nuye jirafas mã̀ ganjauꞌye kantɛ.
+Nuye jirafas mã̀ye ganjauꞌye kantɛ.
 
 ##
-Rnuꞌ búfalos y giriuy xiljiañyat nkjuande mã̀ye ganjauꞌye kantɛ.
+Rnuꞌ búfalos y giriuy xiljiañyat nkjuande mã̀dat ganjauꞌ kantɛ.
 
 ##
-Gikꞌiàyꞌ masadat y tria gupjedat mpè ndɛjɛnat ast biuꞌ kantɛ.
+Gikꞌiàyꞌ masat y tria gupje mpè ndɛjɛnat ast biuꞌ kantɛ.
 
 ##
-Tria miɛꞌɛbat rakuaꞌat njɛ̃̀jɛ̃ꞌp ast biuꞌ kantɛ.
+Tria miɛꞌɛp rakuaꞌat njɛ̀jɛꞌp ast biuꞌ kantɛ.
 
 ##
-8 xkapiɛ̃ꞌtsꞌat y 9 xikiãudat tsjajaundat en biuꞌ kantɛ.
+Tiñjũꞌũn xkapiɛ̃ꞌtsꞌ y nda ntsjauꞌ xikiã̀u tsjajaung en biuꞌ kantɛ.
 
 ##
 Nda gutɨng maꞌa. Nkjuande mang njauꞌ kantɛ. ¿Naꞌau tèꞌeun biuꞌ gutɨng?

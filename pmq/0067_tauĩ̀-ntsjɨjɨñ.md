@@ -10,7 +10,7 @@ Taguas biuꞌ repollo.
 Taꞌuɛ̀s ruꞌ zanahorias.
 
 ##
-Tasɨilꞌ ruꞌ Kjiɨ̀ꞌ
+Tasɨilꞌ ruꞌ kjiɨ̀ꞌ.
 
 ##
 Latàꞌau biuꞌ diñkiay.
@@ -22,7 +22,7 @@ Laꞌtɨꞌt biuꞌ espinaca.
 Buꞌ nàn tɨꞌt ruꞌ stakat.
 
 ##
-Ruꞌ stakat laꞌuĩ̀k ke taguay kuandu lꞌjiɨ̀ꞌt.
+Ruꞌ stakat laꞌuĩ̀k ke taguay kuandu tjɨ̀ꞌt.
 
 ##
 * License: [CC-BY-NC]

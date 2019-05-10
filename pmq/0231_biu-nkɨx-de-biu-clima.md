@@ -1,28 +1,28 @@
-# Biuꞌ nkꞌɨx de biuꞌ Clima
+# Biuꞌ nkꞌɨx de biuꞌ clima
 
 ##
-Baꞌu
+Baꞌu.
 
 ##
-Biuꞌ nmã̀uꞌ
+Biuꞌ nmã̀uꞌ.
 
 ##
-Lamĩ gamau
+Lamĩ gamau.
 
 ##
-Labiajang
+Labiajang.
 
 ##
-Lamĩ matsɛ̀
+Lamĩ matsɛ̀.
 
 ##
-Nu
+Nu.
 
 ##
-Lamĩ ñuɛ
+Lamĩ ñuɛ.
 
 ##
-Lanũꞌũ nda xpijing
+Lanũꞌũ nda xpijing.
 
 ##
 * License: [CC-BY-NC]

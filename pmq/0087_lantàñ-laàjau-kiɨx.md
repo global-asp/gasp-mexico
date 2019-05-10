@@ -7,7 +7,7 @@ Lanꞌtàñ laꞌàjau kꞌiɨx.
 ¿Pa naꞌau tajuꞌu laꞌàjau kꞌiɨx?
 
 ##
-Buꞌ ntjuy juèu uɨ̃jɨ̃ilꞌ.
+Buꞌ ntjuy ꞌjuèu uɨ̃jɨ̃ilꞌ.
 
 ##
 ¿Pa naꞌau tajuꞌu laꞌàjau kꞌiɨx?
@@ -22,8 +22,7 @@ Buꞌ nànk y buꞌ kiùy laꞌkiɨ̃ꞌɨ̃ye.
 Buꞌ tàt y buꞌ jing mejuye laꞌkiɨ̃ꞌɨ̃ye.
 
 ##
-¿Pa naꞌau tajuꞌu nꞌuàjau kꞌiɨx?
-¡Tajuꞌu nꞌuàjau kꞌiɨx pa kiau taꞌjiɨ̀!
+¿Pa naꞌau tajuꞌu nꞌuàjau kꞌiɨx? ¡Tajuꞌu nꞌuàjau kꞌiɨx pa kiau taꞌjiɨ̀!
 
 ##
 * License: [CC-BY]
