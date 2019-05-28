@@ -13,13 +13,13 @@ Taꞌuɛ̀s ruꞌ zanahorias.
 Tasɨilꞌ ruꞌ kjiɨ̀ꞌ.
 
 ##
-Latàꞌau biuꞌ diñkiay.
+Latàꞌau biuꞌ diñkiay.
 
 ##
 Laꞌtɨꞌt biuꞌ espinaca.
 
 ##
-Buꞌ nàn tɨꞌt ruꞌ stakat.
+Buꞌ nàn tɨꞌt ruꞌ stakat.
 
 ##
 Ruꞌ stakat laꞌuĩ̀k ke taguay kuandu tjɨ̀ꞌt.

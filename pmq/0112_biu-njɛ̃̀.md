@@ -13,7 +13,7 @@ Kun u tajuꞌu lanajayꞌ.
 Kun u tajuꞋu laꞋtsajaung.
 
 ##
-Kun u tajuꞋu laꞋtsꞋìng.
+Kun u tajuꞋu laꞋtsꞋìng.
 
 ##
 Kun u tajuꞌu lanajañky.

@@ -1,7 +1,7 @@
-# Biàjauꞌt ruꞌ mbiaꞌay
+# Biàjauꞌt ruꞌ mbiaꞌay
 
 ##
-Biàjauꞌt ruꞌ mbiaꞌay.
+Biàjauꞌt ruꞌ mbiaꞌay.
 
 ##
 Biuꞌ pagas tẽ̀ꞌ, "Muu."
@@ -10,7 +10,7 @@ Biuꞌ pagas tẽ̀ꞌ, "Muu."
 Biuꞌ xikiɨlꞌ tẽ̀ꞌ, "Be, be."
 
 ##
-Biuꞌ npàjalꞌ tẽ̀ꞌ, "Hin."
+Biuꞌ npàjalꞌ tẽ̀ꞌ, "Hin."
 
 ##
 Biuꞌ gapje tẽ̀ꞌ, "Oink-oink."
@@ -19,10 +19,10 @@ Biuꞌ gapje tẽ̀ꞌ, "Oink-oink."
 Biuꞌ sũ̀ talung tẽ̀ꞌ, "Kotɛ̀k-Kotɛ̀k."
 
 ##
-Biuꞌ ndrù tẽ̀ꞌ, "Guau."
+Biuꞌ ndrù tẽ̀ꞌ, "Guau."
 
 ##
-Buꞌ gatùndat mbiaꞌayat tẽ̀ꞌ "¡Chsss!"
+Buꞌ gatùndat mbiaꞌayat tẽ̀ꞌ "¡Chsss!"
 
 ##
 * License: [CC-BY-NC]

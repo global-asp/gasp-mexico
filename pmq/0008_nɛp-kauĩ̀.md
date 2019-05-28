@@ -7,7 +7,7 @@ Lameju lantãu.
 Uãy.
 
 ##
-Laꞌpjɨlꞌ skantꞌàyp.
+Laꞌpjɨlꞌ skantꞌàyp.
 
 ##
 Sɨ̃̀jɨ̃nꞌ ruꞌ skanꞌɛ̀p.

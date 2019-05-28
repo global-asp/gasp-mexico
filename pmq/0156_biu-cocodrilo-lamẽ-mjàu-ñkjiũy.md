@@ -1,19 +1,19 @@
-# Biuꞌ cocodrilo laꞌmẽ mjàu ñkjiũy.
+# Biuꞌ cocodrilo laꞌmẽ mjàu ñkjiũy.
 
 ##
-Namĩ ɛn nda ganuꞌ nda cocodrilo ke mjàu ñkjiũy.
+Namĩ ɛn nda ganuꞌ nda cocodrilo ke mjàu ñkjiũy.
 
 ##
-Laꞌuàꞌt ntsjɨjɨñ mjàu spajìp y jueuꞌ. Ast ke...
+Laꞌuàꞌt ntsjɨjɨñ mjàu spajìp y jueuꞌ. Ast ke...
 
 ##
 ¡¡¡ZAs!!! ¡Biuꞌ cocodrilo ataca!
 
 ##
-Nãꞌãñ de ruꞌ, ya nip laꞌmẽ ñkjiũy, y meju mjàu lajiung.
+Nãꞌãñ de ruꞌ, ya nip laꞌmẽ ñkjiũy, y meju mjàu lajiung.
 
 ##
-Ast ke dagù ñkjiũy ya kuɛ̀.
+Ast ke dagù ñkjiũy ya kuɛ̀.
 
 ##
 * License: [CC-BY]

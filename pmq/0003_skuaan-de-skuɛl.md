@@ -1,7 +1,7 @@
 # Skuaꞌan de skuɛl
 
 ##
-Niñꞌãꞌ sakjùyꞌ ɛs mpaꞌau.
+Niñꞌãꞌ sakjùyꞌ ɛs mpaꞌau.
 
 ##
 Niñꞌãꞌ saljũlꞌ mꞌĩnt ɛs ntɨꞌ.
@@ -22,7 +22,7 @@ Ruꞌ calcetines ɛs majaꞌ.
 Peru rɛꞌ pjiãꞌts ɛs dijiu.
 
 ##
-...Tsjàu kuɨjɨk.
+...Tsjàu kuɨjɨk.
 
 ##
 * License: [CC-BY-NC]

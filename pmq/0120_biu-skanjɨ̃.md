@@ -22,7 +22,7 @@ Zanele daꞌuaꞌaky ruꞌ skanꞌjɨ̃p.
 Thabo dajuɨs ruꞌ skanꞌjɨ̃p.
 
 ##
-Themba dakuàs ruꞌ skanꞌjɨ̃p.
+Themba dakuàs ruꞌ skanꞌjɨ̃p.
 
 ##
 * License: [CC-BY-NC]

@@ -1,4 +1,4 @@
-# Buꞌ kyi juèu damaꞌau.
+# Buꞌ kyi juèu damaꞌau.
 
 ##
 Lanu y lantsaꞌau biuꞌ ñꞌkiuɛ̀.
@@ -19,7 +19,7 @@ Laꞌent biuꞌ kampuꞌ.
 Latãꞌ ruꞌ xiljiã.
 
 ##
-¿Purke mjàu nis latàjau ntjajau... ...nkjant buꞌ juèu lamjing?
+¿Purke mjàu nis latàjau ntjajau... ...nkjant buꞌ juèu lamjing?
 
 ##
 * License: [CC-BY-NC]
