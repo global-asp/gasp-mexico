@@ -1,4 +1,4 @@
-# Biuꞌ cocodrilo laꞌmẽ mjàu ñkjiũy.
+# Biuꞌ cocodrilo laꞌmẽ mjàu ñkjiũy
 
 ##
 Namĩ ɛn nda ganuꞌ nda cocodrilo ke mjàu ñkjiũy.

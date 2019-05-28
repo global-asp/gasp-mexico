@@ -1,4 +1,4 @@
-# Zama ɛs mjàu tsjàu nɛꞌ.
+# Zama ɛs mjàu tsjàu nɛꞌ
 
 ##
 Buꞌ ꞌjuèu ñkꞌiy nu mjàu datɛ̀uꞌ. Kiau lanu guaxiñiꞌu, ¡pur mjàu tatsjàu nɛꞌ!

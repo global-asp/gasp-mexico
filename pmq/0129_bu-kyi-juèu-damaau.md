@@ -1,4 +1,4 @@
-# Buꞌ kyi juèu damaꞌau.
+# Buꞌ kyi juèu damaꞌau
 
 ##
 Lanu y lantsaꞌau biuꞌ ñꞌkiuɛ̀.
