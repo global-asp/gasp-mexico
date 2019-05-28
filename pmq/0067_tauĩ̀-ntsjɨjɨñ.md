@@ -1,4 +1,4 @@
-# Taꞌuĩ̀ ntsjɨjɨñ
+# Taꞌuĩ̀ ntsjɨjɨñ
 
 ##
 Takuant ruꞌ papas.
