@@ -37,5 +37,5 @@ J-luk’ tu yotoch yo’osal u bin kuxtal ichil jump’éel noj k’áaxil. Te�
 * License: [CC-BY]
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
-* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh
+* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh (UIMQroo)
 * Language: yua

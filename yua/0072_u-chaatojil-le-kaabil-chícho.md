@@ -37,6 +37,5 @@ Beya’, u yaalo’ob Gingilee’ ken u yu’ubo’ob u ts’ikbalil Ngedee’ l
 * License: [CC-BY]
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
-* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat
-
+* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat (UIMQroo)
 * Language: yua

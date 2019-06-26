@@ -40,5 +40,5 @@ Ts’o’ok u xáantal beyo’, Rahime’ tu k’áataj sa’asaj si’ipil ti�
 * License: [CC-BY]
 * Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
-* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek (UIMQroo)
 * Language: yua

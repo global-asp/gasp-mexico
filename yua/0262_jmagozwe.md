@@ -52,6 +52,5 @@ Leti’e’ kulukbal xook yáanal u bo’oy le ya’ax najo’, ka j-náats Jtom
 * License: [CC-BY]
 * Text: Lesley Koyi
 * Illustration: Wiehan de Jager
-* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
-
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal (UIMQroo)
 * Language: yua

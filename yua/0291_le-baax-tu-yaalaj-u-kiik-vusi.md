@@ -43,5 +43,5 @@ U kiik Vusie’ tu je’esal u tuukul junsúutuk, ka ts’o’oke’ ka tu ya’
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek (UIMQroo)
 * Language: yua

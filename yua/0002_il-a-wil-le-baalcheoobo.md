@@ -28,5 +28,5 @@ Le ajkanan ba’alche’o’obo’ ku ya’alik, ¡Chss!
 * License: [CC-BY-NC]
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
-* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh
+* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh (UIMQroo)
 * Language: yua

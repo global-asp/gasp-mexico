@@ -40,5 +40,5 @@ Tome’ ku kuchik u xaak yóok’ol u poole’ ku ts’o’okole’ ku bin tu yo
 * License: [CC-BY]
 * Text: Humphreys Odunga
 * Illustration: Zablon Alex Nguku
-* Translation: Josué Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix
+* Translation: Josué Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix (UIMQroo)
 * Language: yua

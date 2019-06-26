@@ -28,5 +28,5 @@ Ba’ax ka meentik.
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Translation: Yareli Yeh Cab, Noé Noh Cimá Jassem Cahuich Ek
+* Translation: Yareli Yeh Cab, Noé Noh Cimá Jassem Cahuich Ek (UIMQroo)
 * Language: yua

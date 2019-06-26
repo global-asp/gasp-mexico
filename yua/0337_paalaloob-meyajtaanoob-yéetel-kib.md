@@ -37,5 +37,5 @@ Ka j-jóok’ tun le k’iino’, le ch’íich’o’ j-bin u popolxiik’ yée
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
-* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek (UIMQroo)
 * Language: yua

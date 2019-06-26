@@ -34,5 +34,5 @@ Ti’ le áak’abil je’elo’ tu t’áanen in na’, in yuum, yéetel in chi
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal (UIMQroo)
 * Language: yua

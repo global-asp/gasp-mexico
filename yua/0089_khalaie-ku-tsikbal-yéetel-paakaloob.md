@@ -28,5 +28,5 @@ Tu suutbal Khalai tu yotoche’ ku jan ch’enebtik bin le pak’áale’ ku ya�
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Jesse Pietersen
-* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla
+* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla (UIMQroo)
 * Language: yua

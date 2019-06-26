@@ -22,6 +22,5 @@ Xiixpaj le k’at te’ lu’umo’. Le yiits’atilo’ j-p’áat jáalk’abi
 * License: [CC-BY]
 * Text: Cuento de Ghana
 * Illustration: Wiehan de Jager
-* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh
-
+* Translation: Víctor Manuel Canché Yam, Edwin Florencio Koyoc Noh (UIMQroo)
 * Language: yua

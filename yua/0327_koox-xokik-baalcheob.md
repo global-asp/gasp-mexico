@@ -28,5 +28,5 @@ Juntúul jomba’alche’e’ táan u yuk’ik ja’ yéetel le k’an kojo’.
 * License: [CC-BY]
 * Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
-* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal (UIMQroo)
 * Language: yua

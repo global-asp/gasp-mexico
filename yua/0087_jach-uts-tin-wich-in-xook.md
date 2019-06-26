@@ -28,5 +28,5 @@ Máax ti’ je’el u béeytal in xokike’. ¡Je’el u béeytal in xokik ti’
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
-* Translation: Víctor Manuel Canche Yam y Edwin Florencia Koyoc Noh
+* Translation: Víctor Manuel Canche Yam y Edwin Florencia Koyoc Noh (UIMQroo)
 * Language: yua

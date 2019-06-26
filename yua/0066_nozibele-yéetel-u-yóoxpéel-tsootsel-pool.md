@@ -43,5 +43,5 @@ Ka ts’o’ok túune’ le peek’o’ ka tu yilaje’ chen tu’us tumen xNozi
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
-* Translation: Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez, Luis Alfredo Tuz Canté
+* Translation: Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez, Luis Alfredo Tuz Canté (UIMQroo)
 * Language: yua

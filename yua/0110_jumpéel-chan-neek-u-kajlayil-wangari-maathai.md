@@ -40,5 +40,5 @@ Xwangarie’, j-kíimij tu ja’abil 2011, chen ba’ale’ je’el u béeytal u
 * License: [CC-BY]
 * Text: Nicola Rijsdijk
 * Illustration: Maya Marshak
-* Translation: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat
+* Translation: Ángel Michel Chable Tuz, Emmanuel Cante Pech, Alam Collí Nahuat (UIMQroo)
 * Language: yua

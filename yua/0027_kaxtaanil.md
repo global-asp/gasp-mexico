@@ -52,5 +52,5 @@ Tak láakalo’on tak ts’áaj jump’éel múuch’ aawat: “to’one’ k'a'
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Vusi Malindi
-* Translation: Noé Arnulfo Noh Cimá, Yareli Yeh Cab, Jassem Cauich Ek
+* Translation: Noé Arnulfo Noh Cimá, Yareli Yeh Cab, Jassem Cauich Ek (UIMQroo)
 * Language: yua

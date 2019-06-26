@@ -64,5 +64,5 @@ Máan k’iino’obe’ ka tu kanajo’ob múul kuxtal chowak xikin yéetel u na
 * License: [CC-BY]
 * Text: Lindiwe Matshikiza
 * Illustration: Meghan Judge
-* Translation: Maria Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
+* Translation: Maria Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal (UIMQroo)
 * Language: yua

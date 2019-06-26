@@ -19,5 +19,5 @@ Le je’ela’ tak chen ka wi’ijak tu ka’atéen.
 * License: [CC-BY]
 * Text: Christian G.
 * Illustration: Wiehan de Jager
-* Translation: Luis Alfredo Tuz Canté, Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez
+* Translation: Luis Alfredo Tuz Canté, Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez (UIMQroo)
 * Language: yua

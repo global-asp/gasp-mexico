@@ -28,5 +28,5 @@ Ba’ale’ yéetele’ mix bik’in kin tsa’ayal xik’náal.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
-* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla
+* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla (UIMQroo)
 * Language: yua

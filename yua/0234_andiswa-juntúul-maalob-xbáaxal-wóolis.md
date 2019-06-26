@@ -28,5 +28,5 @@ Le máaxo’ob cha’antiko’ awatnajo’ob yéetel ki’imak óolal. Tak ti’
 * License: [CC-BY-NC]
 * Text: Eden Daniels
 * Illustration: Eden Daniels
-* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat
+* Translation: Ángel Michel Chablé Tuz, Emmanuel Canté Pech, Alam Collí Nahuat (UIMQroo)
 * Language: yua

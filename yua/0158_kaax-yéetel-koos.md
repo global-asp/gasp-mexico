@@ -34,5 +34,5 @@ Le ken chíikpajak u yoochel u xiik’ le koos ti’ le lu’umo’, le kaaxo’
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
-* Translation: Josue Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix
+* Translation: Josue Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix (UIMQroo)
 * Language: yua

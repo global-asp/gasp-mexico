@@ -52,5 +52,5 @@ Ts’o’ok u máan jump'éel biixe’, Anitae’ tu ya’alaj ti’ Simbegwire,
 * License: [CC-BY]
 * Text: Rukia Nantale
 * Illustration: Benjamin Mitchley
-* Translation: Oscar Giovani Balam Canul, Leydi Patricia del Socorro Balam Carrillo, Cristina Bautista Escamilla
+* Translation: Oscar Giovani Balam Canul, Leydi Patricia del Socorro Balam Carrillo, Cristina Bautista Escamilla (UIMQroo)
 * Language: yua

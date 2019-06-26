@@ -28,5 +28,5 @@ Thembae’ ts’o’ok u k’oliskúuntikubaj.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
-* Translation: Llobet Iván Cetzal Martínez, Lizet Magaly Chable Ake, Luis Alfredo Tuz Canté.
+* Translation: Llobet Iván Cetzal Martínez, Lizet Magaly Chable Ake, Luis Alfredo Tuz Canté. (UIMQroo)
 * Language: yua

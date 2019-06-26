@@ -58,5 +58,5 @@ Le ayik’al wíiniko’ jach ki’imakchaj u yóol uchik u yilik u chan paal tu
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Peris Wachuka
-* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek (UIMQroo)
 * Language: yua

@@ -28,5 +28,5 @@ Le t’u’ulo’ jach máan ki’imakchaj u yóol tumen laj j-elij u tso’otse
 * License: [CC-BY]
 * Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
-* Translation: Luis Alfredo Tuz Canté, Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez
+* Translation: Luis Alfredo Tuz Canté, Lizet Magaly Chable Ake, Llobet Iván Cetzal Martínez (UIMQroo)
 * Language: yua

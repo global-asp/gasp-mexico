@@ -52,5 +52,5 @@ Le wawáaj ku suut tin kaajalo’ séeb uchik u chu’upul. Káaj u biin u suut 
 * License: [CC-BY]
 * Text: Lesley Koyi, Ursula Nafula
 * Illustration: Brian Wambi
-* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek
+* Translation: María del Rosario Poot Cahum, Martha Beatriz Kanxoc Ek (UIMQroo)
 * Language: yua

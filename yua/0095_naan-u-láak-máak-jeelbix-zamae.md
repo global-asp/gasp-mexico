@@ -40,5 +40,5 @@ Sáansamal kin meentik le jats’uts ba’alo’oba’, chéen ba’ale’ le ba
 * License: [CC-BY]
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
-* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla
+* Translation: Oscar Giovani Balam Canul, Leydi Patricia del S. Balam Carrillo, Cristina Bautista Escamilla (UIMQroo)
 * Language: yua

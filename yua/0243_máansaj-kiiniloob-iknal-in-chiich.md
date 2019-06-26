@@ -64,6 +64,5 @@ Ka suunajo’ob Odongo yéetel Apiyo tu najil u xooko’obe’ tu tsikbaltaj ti�
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
-* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal
-
+* Translation: María Gelmy Cauich Cocon, Ruth del Carmen Chuc Caamal (UIMQroo)
 * Language: yua

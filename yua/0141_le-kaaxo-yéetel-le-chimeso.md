@@ -40,5 +40,5 @@ Líik’ul le k’iin je’elo le kaaxo’ob yéetel le chimeso’obo’ ma’at
 * License: [CC-BY]
 * Text: Winny Asara
 * Illustration: Magriet Brink
-* Translation: Josué Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix
+* Translation: Josué Vicente Balam Ojeda, José Alonso Cahun Sánchez, Emmanuel Jiménez Calix (UIMQroo)
 * Language: yua
