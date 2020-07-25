@@ -35,7 +35,9 @@ maz | _mazahua_ | Mazahua
 miu | _mixteco_ | Mixtec (Mixteco de Cacaloxtepec)
 | | _ngiwa (popoloca)_ | Ngiwa
 nah | _náhuatl_ | Nahuatl
-nah-hus | _náhuatl (náhuatl de la Huasteca)_ | Nahuatl (Huastec)
+nch | _náhuatl (náhuatl de la Huasteca central)_ | Huasteca Nahuatl (Central)
+nhe | _náhuatl (náhuatl de la Huasteca veracruzana)_ | Huasteca Nahuatl (Eastern)
+nhw | _náhuatl (náhuatl de la Huasteca potosina)_ | Huasteca Nahuatl (Western)
 oto | _otomí_ | Otomí
 ppi | _paipai_ | Paipai
 pia | _pima bajo_ | Pima Bajo
